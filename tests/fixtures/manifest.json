@@ -1,0 +1,62 @@
+[
+  {
+    "file": "lichess_start.png",
+    "site": "lichess",
+    "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "white_bottom": true,
+    "board": [
+      60,
+      60,
+      640,
+      640
+    ]
+  },
+  {
+    "file": "lichess_mid_white.png",
+    "site": "lichess",
+    "fen": "r1bq1rk1/pp2bppp/2n1pn2/3p4/2PP4/2N1PN2/PP2BPPP/R2QKB1R w KQ - 1 8",
+    "white_bottom": true,
+    "board": [
+      60,
+      60,
+      640,
+      640
+    ]
+  },
+  {
+    "file": "lichess_mid_black.png",
+    "site": "lichess",
+    "fen": "r1bq1rk1/pp2bppp/2n1pn2/3p4/2PP4/2N1PN2/PP2BPPP/R2QKB1R w KQ - 1 8",
+    "white_bottom": false,
+    "board": [
+      60,
+      60,
+      640,
+      640
+    ]
+  },
+  {
+    "file": "chesscom_start.png",
+    "site": "chesscom",
+    "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "white_bottom": true,
+    "board": [
+      60,
+      60,
+      636,
+      636
+    ]
+  },
+  {
+    "file": "chesscom_mid_white.png",
+    "site": "chesscom",
+    "fen": "r1bq1rk1/pp2bppp/2n1pn2/3p4/2PP4/2N1PN2/PP2BPPP/R2QKB1R w KQ - 1 8",
+    "white_bottom": true,
+    "board": [
+      60,
+      60,
+      636,
+      636
+    ]
+  }
+]
