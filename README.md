@@ -16,8 +16,9 @@ It only looks at the screen. It never clicks, types, or changes the chess game o
 
 ## Option A: Use the ready-made app (easiest)
 
-1. On the computer where it was built, copy the **whole** folder `dist\ChessMaster\` (USB stick, zip file, cloud drive...). The folder must stay complete: `ChessMaster.exe` needs the `_internal` folder next to it, which contains Stockfish and the built-in board profiles.
-2. On the new computer, put the folder anywhere, for example `C:\Program Files\ChessMaster` or your Desktop.
+1. Download `ChessMaster-windows-x64.zip` from the [latest release](https://github.com/3awddev/Chess_Master_Agent/releases/latest).
+   (Or, from a computer where you built it yourself, copy the **whole** `dist\ChessMaster\` folder.)
+2. Right-click the zip, choose **Extract All...**, and put the `ChessMaster` folder anywhere, for example your Desktop. Keep the folder complete: `ChessMaster.exe` needs the `_internal` folder next to it, which contains Stockfish and the built-in board profiles.
 3. Double-click `ChessMaster.exe`.
    - If Windows SmartScreen says "Windows protected your PC", click **More info**, then **Run anyway**. This appears because the app is not code-signed.
 4. Optional: right-click `ChessMaster.exe` and choose **Send to > Desktop (create shortcut)**.
